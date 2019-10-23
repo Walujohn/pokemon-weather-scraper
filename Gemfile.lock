@@ -6,11 +6,14 @@ GEM
     launchy (2.4.3)
       addressable (~> 2.3)
     mini_portile2 (2.4.0)
-    nokogiri (1.10.3-x64-mingw32)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
+    nokogiri (1.10.4-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     public_suffix (3.0.3)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
